@@ -1,0 +1,1 @@
+# maxhub-share-contract
